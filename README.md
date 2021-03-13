@@ -1,4 +1,4 @@
-# Trading-Pairs
+# Trading Pairs with Python - Advance Statistical tools for Trading
 This repository have pyhton codes used in book - 'Trading Pairs with Python: Advance Statistical Tool for Trading' by Authour Anjana Gupta.
 
 Concepts are explained from very basic so that any trader who does not understand statistics can understand and learn. Models are developed in Google spread sheet and Python for back testing on past data and finding opportunities. Python is also explained from very basic so that anyone who does not understand python or programming can write and develop his own codes for fetching historical data and back testing.
